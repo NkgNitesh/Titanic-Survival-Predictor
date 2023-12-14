@@ -28,16 +28,16 @@ bash
 
 pip install -r requirements.txt
 
-Run the Jupyter notebook or google colab to execute the data preprocessing, model training, and evaluation steps.
+Run the Google colab to execute the data preprocessing, model training, and evaluation steps.
 
 # Project Structure
 The project structure is organized as follows:
 
-notebooks/: Jupyter notebooks containing the main project code.
+notebooks/: Google Colab containing the main project code.
 data/: Dataset files used for training and testing.
 README.md: Project overview and instructions.
 Getting Started
-To get started with the project, follow the steps outlined in the Usage section. Explore the Jupyter notebooks in the notebooks/ directory to understand the implementation details.
+To get started with the project, follow the steps outlined in the Usage section. Explore the Google Colab in the notebooks/ directory to understand the implementation details.
 
 # Dependencies
 Ensure you have the necessary dependencies installed. You can install them using the following command:
